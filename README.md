@@ -1,4 +1,4 @@
-# GS_Refiner_Migration
+# Snowflake_Refiner_Migration
 
 Execute scripts in this order - 
 1. prepare_test_data.sql
